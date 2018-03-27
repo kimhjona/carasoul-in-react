@@ -1,0 +1,28 @@
+{ 
+  "urls": [
+    {
+      "photoUrl": "https://st.hzcdn.com/simgs/dd619cce0ab9211e_9-2078/home-design.jpg",
+      "destinationUrl": "https://www.houzz.com/shop-houzz/semi-annual-sale"
+    },
+    {
+      "photoUrl": "https://st.hzcdn.com/fimgs/e4810d2e0ab9040c_4637-w964-h285-b0-p0--home-design.jpg",
+      "destinationUrl": "https://www.houzz.com/ideabooks/90494028/list/bestselling-bar-stools-with-free-shipping"
+    },
+    {
+      "photoUrl": "https://st.hzcdn.com/simgs/41311bd10ab90452_9-4707/home-design.jpg",
+      "destinationUrl": "https://www.houzz.com/ideabooks/103736304/list/the-ultimate-rug-sale"
+    },
+    {
+      "photoUrl": "https://st.hzcdn.com/simgs/bfe130c40ab90479_9-4746/home-design.jpg",
+      "destinationUrl": "https://www.houzz.com/ideabooks/105900256/list/up-to-80-off-semi-annual-sale-bestsellers"
+    },
+    {
+      "photoUrl": "https://st.hzcdn.com/simgs/9ac10ecc0ab906c6_9-5335/home-design.jpg",
+      "destinationUrl": "https://www.houzz.com/ideabooks/91649542/list/up-to-80-off-kitchen-sinks-and-faucets"
+    },
+    {
+      "photoUrl": "https://st.hzcdn.com/simgs/b9d1191d0ab904bb_9-4812/home-design.jpg",
+      "destinationUrl": "https://www.houzz.com/ideabooks/105948441/list/up-to-65-off-outdoor-living-sale"
+    }
+  ]
+}
