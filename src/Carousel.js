@@ -44,20 +44,20 @@ class Carousel extends Component {
   }
 
   updateImageOnTimer = () => {
-    // const {
-    //   maxIndex,
-    //   focusIndex
-    // } = this.state
+    const {
+      maxIndex,
+      focusIndex
+    } = this.state
 
-    // if (focusIndex < maxIndex) {
-    //   this.setState({
-    //     focusIndex: focusIndex + 1
-    //   })
-    // } else {
-    //   this.setState({
-    //     focusIndex: 0
-    //   })
-    // }
+    if (focusIndex < maxIndex) {
+      this.setState({
+        focusIndex: focusIndex + 1
+      })
+    } else {
+      this.setState({
+        focusIndex: 0
+      })
+    }
   }
 
   updateImageManually = event => {
