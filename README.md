@@ -2,9 +2,9 @@
 
 # Getting it set up
 
-<code>git clone https://github.com/kimhjona/carasoul-in-react.git</code>
-<code>npm i</code>
-<code>npm start</code>
+<p><code>git clone https://github.com/kimhjona/carasoul-in-react.git</code></p>
+<p><code>npm i</code></p>
+<p><code>npm start</code></p>
 
 # Notes.txt
 
