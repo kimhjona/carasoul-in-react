@@ -23,7 +23,9 @@ Btw: if you want to activate "destinationsUrl," change the div in Carousel.js in
 <p>Left/right arrows - left arrow takes the user to the previous image,  the right arrow takes the user to the next image</p>
 <p>Left and right arrow keys - the behavior should be the same as that outlined in the point above above</p>
 <p>Bottom toggle - on the bottom of the carousel, there will be one dot per image; clicking on the second dot should take the user to the second image, etc</p>
+
 ## Visual:
+
 <p>The left and right arrows are only shown to the user when they are hovering over the image carousel</p>
 <p>On the first page, the left arrow will not be shown</p>
 <p>On the last page, the right arrow will not be shown</p>
